@@ -1,0 +1,9 @@
+.school-container{
+    display: flex;
+}
+.course-container{
+    border-right: 1px solid #ac5383;
+    margin-left: 20px;
+    margin-right: 5px;
+    width: 70%;
+}
