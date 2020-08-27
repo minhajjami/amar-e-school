@@ -18,7 +18,7 @@ const Course = (props) => {
                     <Card.Text>
                         <p>Created By: {createdBy}</p>
                         <p><small>Category: {category}</small></p>
-                        <p><small>level: {level}</small></p>
+                        <p><small>Level: {level}</small></p>
                         <p className="price">Price: ${price}</p>
                     </Card.Text>
                 </Card.Body>
